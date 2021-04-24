@@ -21,3 +21,5 @@ or click on file and save
 
 
 We dont have to push one commit at a time
+You can push multiple commits in one shot. 
+There is no limit
