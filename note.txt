@@ -13,3 +13,7 @@ Now our work will continue locally
 2.comitted the change to local repo
 3.we want this change to be reflected in remote repository so we PUSHED local commits to remote repository using push origin button
 4. observe it has been added to your repositoru under GitHub.com
+
+
+How to save after adding some text in sublime 
+on windows control + S
