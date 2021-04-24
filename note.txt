@@ -3,3 +3,13 @@ Few things happened:
 1.It automatically created a new Remote Repo under GitHub.com accout.
 2.Made the connection with loval git repo.
 3.Added all our commits to remote repo
+
+
+
+
+Now our work will continue locally
+
+1.add a new file called note.txt
+2.comitted the change to local repo
+3.we want this change to be reflected in remote repository so we PUSHED local commits to remote repository using push origin button
+4. observe it has been added to your repositoru under GitHub.com
